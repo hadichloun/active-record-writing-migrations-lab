@@ -75,3 +75,4 @@ StandardError: Directly inheriting from ActiveRecord::Migration is not supported
 error message instructs.
 
 
+finished writing migration with seed
